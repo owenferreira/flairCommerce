@@ -1,0 +1,22 @@
+.navContainer {
+  max-height: 10vh;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+}
+
+.rightNavContainer {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  right: 0;
+}
+
+.cart {
+width: 20px;
+}
+
+.menuButton {
+width:20px;
+}

@@ -1,0 +1,12 @@
+.main{
+  width:100vw;
+  height:auto;
+}
+.productPhoto {
+  margin: 1em;
+  width: 50vw;
+  height:90vh;
+  background: no-repeat url('../public/examplePhoto.jpg');
+  background-position: center center;
+  background-size:cover;
+}
